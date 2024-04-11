@@ -1,0 +1,35 @@
+*{
+    background-color:black;
+    color:white;
+    font-family:cursive;
+}
+
+#p1{
+    font-size:50px;
+    
+}
+#div1{
+    /* margin-left:43%;
+    margin-top:175px; */
+}
+
+#div2{
+    /* margin-left:43%; */
+    
+}
+
+input{
+    height:30px;
+    width:195px;
+    
+}
+
+#div3{
+    border:2px solid;
+    height:400px;
+    width:270px;
+    padding-left:55px;
+    margin-left:40%;
+    margin-top:165px;
+    
+}
